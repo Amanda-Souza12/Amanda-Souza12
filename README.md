@@ -6,6 +6,6 @@ Meu nome é Amanda Souza
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### VOce entrar em contato comigo 📧
+- ### Você entrar em contato comigo📧
 
 - @00001106041914sp@al.educacao.sp.gov.br
