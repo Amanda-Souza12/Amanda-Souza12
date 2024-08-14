@@ -2,7 +2,7 @@
 
 Meu nome é Amanda Souza 
 
-- Estou fazendio curso na Alura
+- Estou fazendo curso na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
